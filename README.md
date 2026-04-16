@@ -2,6 +2,8 @@
 UNFINISHED!!!
 
 ANY HELP IS WELCOMED
+Please use [imgui-rbx](https://github.com/acctress/imgui-rbx/) for now.
+Or contribute to this repo
 
 # Iris
 
