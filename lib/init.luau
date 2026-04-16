@@ -1,5 +1,6 @@
 --!optimize 2
-local Types = require(script.Types)
+-- TODO: check if it this script has anything that won't work for this project
+local Types = require(game:HttpGet('https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/Types.luau'))
 
 --[=[
     @class Iris
@@ -22,7 +23,7 @@ local Types = require(script.Types)
 ]=]
 local Iris = {} :: Types.Iris
 
-local Internal: Types.Internal = require(script.Internal)(Iris)
+local Internal: Types.Internal = require(game:HttpGet('https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/Internal.luau'))(Iris)
 
 --[=[
     @within Iris
@@ -78,10 +79,7 @@ function Iris.Init(parentInstance: BasePlayerGui | GuiBase2d?, eventConnection: 
         return Iris
     end
 
-    if parentInstance == nil then
-        -- coalesce to playerGui
-        parentInstance = game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui")
-    end
+    parentInstance = game:GetService("CoreGui")
     if eventConnection == nil then
         -- coalesce to Heartbeat
         eventConnection = game:GetService("RunService").Heartbeat

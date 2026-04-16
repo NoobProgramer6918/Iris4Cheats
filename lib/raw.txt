@@ -1,26 +1,57 @@
 *lib children*
 
 Init
-https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/init.lua
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/init.luau
 
 Api
-https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/API.lua
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/API.luau
 
 Types
-https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/Types.lua
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/Types.luau
 
 Internal
-https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/Internal.lua
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/Internal.luau
 
 Pubtypes
-https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/PubTypes.lua
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/PubTypes.luau
 
 WidgetTypes
-https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/WidgetTypes.lua
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/WidgetTypes.luau
 
 Config
-https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/config.lua
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/config.luau
 
 *widgets children*
 
+Button
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/widgets/Button.luau
 
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/widgets/Checkbox.luau
+
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/widgets/Combo.luau
+
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/widgets/Format.luau
+
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/widgets/Image.luau
+
+https://raw.githubusercontent.com/NoobProgramer6918/Iris4Cheats/refs/heads/main/lib/widgets/Input.luau
+
+https://github.com/NoobProgramer6918/Iris4Cheats/raw/refs/heads/main/lib/widgets/Menu.luau
+
+https://github.com/NoobProgramer6918/Iris4Cheats/raw/refs/heads/main/lib/widgets/Plot.luau
+
+https://github.com/NoobProgramer6918/Iris4Cheats/raw/refs/heads/main/lib/widgets/RadioButton.luau
+
+https://github.com/NoobProgramer6918/Iris4Cheats/raw/refs/heads/main/lib/widgets/Root.luau
+
+https://github.com/NoobProgramer6918/Iris4Cheats/raw/refs/heads/main/lib/widgets/Tab.luau
+
+https://github.com/NoobProgramer6918/Iris4Cheats/raw/refs/heads/main/lib/widgets/Table.luau
+
+https://github.com/NoobProgramer6918/Iris4Cheats/raw/refs/heads/main/lib/widgets/Text.luau
+
+https://github.com/NoobProgramer6918/Iris4Cheats/raw/refs/heads/main/lib/widgets/Tree.luau
+
+https://github.com/NoobProgramer6918/Iris4Cheats/raw/refs/heads/main/lib/widgets/Window.luau
+
+https://github.com/NoobProgramer6918/Iris4Cheats/raw/refs/heads/main/lib/widgets/init.luau
